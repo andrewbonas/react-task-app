@@ -1,0 +1,2 @@
+html{font-family:sans-serif;font-size:20px}body{background-color:#e7eaed}.form-container{justify-content:center;margin-top:20px}.form-container,form{display:flex;flex-direction:column}form{align-self:center;width:40%;text-align:center}form input{padding:5px;border:1px solid grey;border-radius:5px}form button{align-self:center;width:100px;margin-top:10px;padding:8px;color:#fff;border:none;border-radius:5px;background-color:#5bb1c1;font-size:15px}.task-list{list-style-position:inside;list-style-type:decimal}
+/*# sourceMappingURL=main.42b62a91.chunk.css.map */
